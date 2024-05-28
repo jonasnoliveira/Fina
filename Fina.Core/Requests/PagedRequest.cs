@@ -1,4 +1,4 @@
-namespace Fina.Core.Requests
+namespace Fina.Core.Requests;
 
 public abstract class PagedRequest : Request
 {
